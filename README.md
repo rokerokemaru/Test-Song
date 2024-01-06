@@ -1,2 +1,2 @@
 # Test-Song
-Song about Test
+Song about Test in the key of C major.
